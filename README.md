@@ -1,3 +1,5 @@
+> NOTE: This code was originally written by Yuan Xue and Sharon Huang of Lehigh University. It has been copied to GitHub for configuration control as we make minor modifications to get the code running on our system. - Mike Bopf, CEB/LHC/NLM/NIH
+
 # AttnGAN
 
 Pytorch implementation for reproducing AttnGAN results in the paper [AttnGAN: Fine-Grained Text to Image Generation
